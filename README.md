@@ -175,28 +175,28 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [On the Utility of Learning about Humans for Human-AI Coordination](https://arxiv.org/pdf/1910.05789.pdf)
-| 2015 | [Deep Knowledge Tracing](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf) 
+| 2015 | [Deep Knowledge Tracing](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
 
 
 
 ###  International Conference on Machine Learning (ICML) ###
 | Year |  Paper |
 |------|-------------------------------|
-| 2015 | [Learning Program Embeddings to Propagate Feedback](https://stanford.edu/~cpiech/bio/papers/programEncoding.pdf) 
+| 2015 | [Learning Program Embeddings to Propagate Feedback](https://stanford.edu/~cpiech/bio/papers/programEncoding.pdf)
 
 
 
 ### Educational Data Mining (EDM) ###
 | Year |  Paper |
 |------|-------------------------------|
-| 2015 | [Tuning Peer Grading](https://stanford.edu/~cpiech/bio/papers/tuningPeerGrading.pdf) 
+| 2015 | [Tuning Peer Grading](https://stanford.edu/~cpiech/bio/papers/tuningPeerGrading.pdf)
 
 
 
 ### Proceedings of the National Academy of Sciences (PNAS) ###
 | Year | Paper |
 |------|-------------------------------|
-| 2019 | [Agency plus automation: Designing artificial intelligence into interactive systems](https://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf) 
+| 2019 | [Agency plus automation: Designing artificial intelligence into interactive systems](https://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf)
 | 2019 | [Scaling up analogical innovation with crowds and AI](https://www.pnas.org/content/pnas/116/6/1870.full.pdf)
 | 2019 | [Citizen science frontiers: Efficiency, engagement, and serendipitous discovery with human–machine systems](https://www.pnas.org/content/pnas/116/6/1902.full.pdf)
 
@@ -205,22 +205,22 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 ### Communications of the ACM (CACM) ###
 | Year | Paper |
 |------|-------------------------------|
-| 2018 | [The Challenge of Crafting Intelligible Intelligence](https://arxiv.org/pdf/1803.04263.pdf) 
+| 2018 | [The Challenge of Crafting Intelligible Intelligence](https://arxiv.org/pdf/1803.04263.pdf)
 
 
 
 ### Distill ###
 | Year | Paper |
 |------|-------------------------------|
-| 2019 | [AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/) 
-| 2017 | [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/) 
+| 2019 | [AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/)
+| 2017 | [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/)
 
 
 
 ### arXiv ###
 | Year | Paper |
 |------|-------------------------------|
-| 2017 | [Machine Teaching: A New Paradigm for Building Machine Learning Systems](https://arxiv.org/pdf/1707.06742.pdf) 
+| 2017 | [Machine Teaching: A New Paradigm for Building Machine Learning Systems](https://arxiv.org/pdf/1707.06742.pdf)
 
 
 
